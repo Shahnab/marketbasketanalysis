@@ -21,7 +21,7 @@ uploaded_file = st.sidebar.file_uploader('Upload a file with some order data', t
 # demo = st.sidebar.checkbox('Use demo data')
 
 
-st.image("https://www.creativebrandsmag.com/wp-content/uploads/2021/07/dentsu-enlarged-logo.png", use_column_width=10)
+st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png', width=250)
 st.title('MARKET BASKET ANALYSIS APP')
 
 
