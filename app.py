@@ -22,7 +22,7 @@ uploaded_file = st.sidebar.file_uploader('Upload a file with some order data', t
 
 
 st.image('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dentsu-logo_black.svg/2560px-Dentsu-logo_black.svg.png', width=250)
-st.title('MARKET BASKET ANALYSIS APP')
+st.heading ('MARKET BASKET ANALYSIS APP')
 
 
 
